@@ -131,3 +131,4 @@ from utils.logger import setup_logging
 
 logger = setup_logging('/path/to/logfile.txt')
 logger.info('This is an info log message.')
+
